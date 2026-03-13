@@ -128,5 +128,6 @@ print("IP Address:", ip_address.decode())
 client_socket.close()
 ~~~
 ## Output
+
 ## Result
 Thus Execution of Network commands Performed 
